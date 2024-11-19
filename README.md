@@ -1,2 +1,2 @@
 # SimpleRegister-SwiftUI
-<img src="/preview" style="width: 200px" />
+<img src="/preview.png" style="width: 200px" />
