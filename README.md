@@ -9,4 +9,15 @@ This app was developed by:
 
 Here are some screenshots of the app:  
 
-<img src="ss1.png" alt="App Screenshot" width="200"><span>  </span><img src="ss2.png" alt="App Screenshot" width="200"><span>  </span><img src="ss3.png" alt="App Screenshot" width="200"><span>  </span><img src="ss4.png" alt="App Screenshot" width="200"><span>  </span><img src="ss5.png" alt="App Screenshot" width="200">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <img src="ss1.png" alt="App Screenshot 1" width="300" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+  <br>
+  <img src="ss2.png" alt="App Screenshot 2" width="300" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+  <br>
+  <img src="ss3.png" alt="App Screenshot 3" width="300" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+    <br>
+  <img src="ss4.png" alt="App Screenshot 4" width="300" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+    <br>
+  <img src="ss5.png" alt="App Screenshot 5" width="300" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+</div>
+
